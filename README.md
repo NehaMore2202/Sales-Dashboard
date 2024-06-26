@@ -1,6 +1,8 @@
 # Sales-Dashboard Tableau
 Sales Dashboard 
 
+**Dashboard Link:** https://public.tableau.com/app/profile/neha.more6475/viz/SalesDashboard_17193730074980/SalesDashboard?publish=yes
+
 **Overview**
 
 This repository contains the Tableau sales dashboard project, showcasing comprehensive data visualizations and advanced analytics for sales performance. The dashboard includes dynamic features to provide actionable insights for business decision-making.
